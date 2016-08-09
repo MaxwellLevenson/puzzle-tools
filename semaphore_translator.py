@@ -29,7 +29,7 @@ def check(pos):
 	return 0
 
 # given two arm position inputs, ouputs semaphore character
-def translate((one, two)):
+def translate_tuple((one, two)):
 	if check([one, two]) == 1:
 		return
 	one = int(one)
@@ -37,8 +37,43 @@ def translate((one, two)):
 	less = one if one < two else two
 	more = one if less == two else two
 	pair = (less, more)
-	print(outputs[pair])
+	try:
+		return(outputs[pair])
+	except KeyError: 
+		print("Not a valid semaphore!")
+
+def translate_time((hr, mn)):
+	one = 0
+	two = 0
+	one = int((mn + 4.5) / 7.5)
+	one = one if mn < 57 else 0
+
+	tot_min = (hr % 12) * 60 + mn
+	if tot_min / 8 < 45 or tot_min >= 11 * 60 + 15:
+		two = 0
+	elif tot_min < 2 * 60 + 15:
+		two = 1
+	elif tot_min < 3 * 60 + 45:
+		two = 2
+	elif tot_min <  5 * 60 + 15:
+		two = 3
+	elif tot_min < 6 * 60 + 45:
+		two = 4
+	elif tot_min < 8 * 60 + 15:
+		two = 5
+	elif tot_min < 9 * 60 + 45:
+		two = 6
+	else:
+		two = 7
+
+	return translate_tuple((one, two))
 
 print(chr(27) + "[2J")
 print("Arm position diagram:\n" + "    0    \n" + "  7   1\n" + "6       2\n" + "  5   3\n" + "    4")
-translate(input("Please enter a tuple of positions in the form (x, y):\n"))
+ans = input("Positions (1) or time (2)?:")
+if ans == 1:
+	print translate_tuple(input("Please enter a tuple of positions in the form (x, y):\n"))
+elif ans == 2:
+	hrs = input("Hours?: ")
+	mins = input("Minutes?: ")
+	print(translate_time((hrs, mins)))
