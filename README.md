@@ -20,13 +20,13 @@ Organize information in a spreadsheet
 - Elements, periods, rows, columns -> Periodic Table
 
 ## Useful External Tools
-[Thesaurus](http://www.thesaurus.com/)
-[Dictionary](http://www.dictionary.com/)
-[Binary/Hex/Decimal/Ascii Converters](http://www.binaryhexconverter.com/)
-[Periodic Table](http://www.ptable.com/)
-[Vigenere Solver](http://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx)
-[Casear Solver](http://www.xarg.org/tools/caesar-cipher/)
-[Anagram Solver](http://www.ssynth.co.uk/~gay/anagram.html)
-[Crossword Puzzle Clue Solver](http://www.oneacross.com/)
-[Morse Code Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/500px-International_Morse_Code.svg.png)
-[Number to Letter Chart](https://loganstatta.files.wordpress.com/2014/11/ordeng.jpg)
+- [Thesaurus](http://www.thesaurus.com/)
+- [Dictionary](http://www.dictionary.com/)
+- [Binary/Hex/Decimal/Ascii Converters](http://www.binaryhexconverter.com/)
+- [Periodic Table](http://www.ptable.com/)
+- [Vigenere Solver](http://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx)
+- [Casear Solver](http://www.xarg.org/tools/caesar-cipher/)
+- [Anagram Solver](http://www.ssynth.co.uk/~gay/anagram.html)
+- [Crossword Puzzle Clue Solver](http://www.oneacross.com/)
+- [Morse Code Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/500px-International_Morse_Code.svg.png)
+- [Number to Letter Chart](https://loganstatta.files.wordpress.com/2014/11/ordeng.jpg)
