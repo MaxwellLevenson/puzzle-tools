@@ -49,7 +49,8 @@ def translate_time((hr, mn)):
 	one = one if mn < 57 else 0
 
 	tot_min = (hr % 12) * 60 + mn
-	if tot_min / 8 < 45 or tot_min >= 11 * 60 + 15:
+
+	if tot_min < 45 or tot_min >= 11 * 60 + 15:
 		two = 0
 	elif tot_min < 2 * 60 + 15:
 		two = 1
@@ -70,10 +71,12 @@ def translate_time((hr, mn)):
 
 print(chr(27) + "[2J")
 print("Arm position diagram:\n" + "    0    \n" + "  7   1\n" + "6       2\n" + "  5   3\n" + "    4")
-ans = input("Positions (1) or time (2)?:")
-if ans == 1:
-	print translate_tuple(input("Please enter a tuple of positions in the form (x, y):\n"))
-elif ans == 2:
-	hrs = input("Hours?: ")
-	mins = input("Minutes?: ")
-	print(translate_time((hrs, mins)))
+ans = input("Positions (1) or time (2)? (Use q to quit at any time): ")
+while 1:
+	if ans == 1:
+		inp = input("Please enter a tuple of positions in the form (x, y):\n")
+		print translate_tuple(inp)
+	elif ans == 2:
+		hrs = input("Hours?: ")
+		mins = input("Minutes?: ")
+		print(translate_time((hrs, mins)))
