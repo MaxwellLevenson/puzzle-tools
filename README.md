@@ -2,10 +2,11 @@
 This repo holds original tools for solving puzzle challenges.
 
 ## General Puzzle Rules
-Nothing is a coincidence
-The title is a clue, any words that seem out of place are clues
-Never should need to brute force
-Organize information in a spreadsheet
+1. Nothing is a coincidence
+2. The title is a clue, any words that seem out of place are clues
+3. Never should need to brute force
+4. Organize information in a spreadsheet
+5. When in doubt, Google
 
 ## Puzzle Tricks
 - Ciphers: Vigenere, Caesar, Pigpen, Beale, Morse Code
