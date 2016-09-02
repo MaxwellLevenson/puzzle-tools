@@ -26,7 +26,7 @@ This repo holds original tools for solving puzzle challenges.
 - [Binary/Hex/Decimal/Ascii Converters](http://www.binaryhexconverter.com/)
 - [Periodic Table](http://www.ptable.com/)
 - [Vigenere Solver](http://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx)
-- [Casear Solver](http://www.xarg.org/tools/caesar-cipher/)
+- [Casear Solver](http://www.mygeocachingprofile.com/codebreaker.caesarcipher.aspx)
 - [Anagram Solver](http://www.ssynth.co.uk/~gay/anagram.html)
 - [Crossword Puzzle Clue Solver](http://www.oneacross.com/)
 - [Morse Code Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/500px-International_Morse_Code.svg.png)
