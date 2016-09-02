@@ -16,6 +16,7 @@ This repo holds original tools for solving puzzle challenges.
 - Yes/No's, On/Offs, converted to binary
 - Word Puzzles: Pay attention to tense of clues
 - Weird Items: Semornilaps, palindromes
+- 5 digit numbers could be zip codes
 
 ## Key Words
 - Elements, periods, rows, columns -> Periodic Table
