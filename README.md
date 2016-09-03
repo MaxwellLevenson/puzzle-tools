@@ -42,6 +42,7 @@ This repo holds original tools for solving puzzle challenges.
 ## Useful External Tools
 - [Thesaurus](http://www.thesaurus.com/)
 - [Dictionary](http://www.dictionary.com/)
+- [Fast Letter/Number Decryption](http://rumkin.com/tools/cipher/numbers.php)
 - [Binary/Hex/Decimal/Ascii Converters](http://www.binaryhexconverter.com/)
 - [Periodic Table](http://www.ptable.com/)
 - [Vigenere Solver](http://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx)
