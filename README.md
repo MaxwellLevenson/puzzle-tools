@@ -18,6 +18,8 @@ This repo holds original tools for solving puzzle challenges.
   - Numbers in a single digit range are usually used to index words or letters
   - 5 digit numbers could be zip codes
   - Google ambiguous numbers
+- Letters:
+  - If have a grouping on nonsensical letters derived from clues, try to look at the clues to find an ordering (dates, times, addresses, age, etc)
 - Maps: Can be turned into symbols
 - Dates: Can be converted to letters
 - Times: Often semaphores that can be converted to letters
@@ -31,6 +33,7 @@ This repo holds original tools for solving puzzle challenges.
   - [Nonograms](https://en.wikipedia.org/wiki/Nonogram) - grid logic puzzles that form a picture
   - [Braille](https://faqs.neoseeker.com/Games/GBA/pokemon_emerald_braille_jax06.png) - 2x3 grid of binary (yes/no) items [e.g.](https://www.collegepuzzlechallenge.com/Puzzles/ViewPuzzle.ashx?id=1325&view=solution)
   - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+  - [Unicode Characters](http://unicodelookup.com/) - e.g. U+1F605
 
 ## Key Words
 - Elements, periods, rows, columns -> Periodic Table
