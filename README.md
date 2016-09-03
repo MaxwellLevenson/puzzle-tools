@@ -1,6 +1,8 @@
 # Puzzle Tools
 This repo holds original tools for solving puzzle challenges.
 
+<a href="www.google.com" target="_blank">Test</a>
+
 ## General Puzzle Rules
 1. Nothing is a coincidence
 2. The title is a clue, any words that seem out of place are clues
