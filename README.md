@@ -25,6 +25,7 @@ This repo holds original tools for solving puzzle challenges.
 - Times: Often semaphores that can be converted to letters
 - Yes/No's, On/Offs, converted to binary (or morse code)
 - Word Puzzles: Pay attention to tense of clues
+- Word Association: Sometimes need to find common word or word to add at beginning/end of clues to find solution
 - Weird Items:
   - Semornilaps - words and phrases which make sense when read backwards, but have a different meaning
   - Palindromes - same forwards as backwards
