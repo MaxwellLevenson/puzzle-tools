@@ -53,3 +53,4 @@ This repo holds original tools for solving puzzle challenges.
 - [Morse Code Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/500px-International_Morse_Code.svg.png)
 - [Number to Letter Chart](https://loganstatta.files.wordpress.com/2014/11/ordeng.jpg)
 - [Cryptic Crossword Tips](https://www.theguardian.com/lifeandstyle/2014/sep/12/how-to-solve-cryptic-crossword-clues)
+- [Words With At Least These Letters](http://www.litscape.com/word_tools/contains_minimally.php)
