@@ -55,3 +55,4 @@ This repo holds original tools for solving puzzle challenges.
 - [Cryptic Crossword Tips](https://www.theguardian.com/lifeandstyle/2014/sep/12/how-to-solve-cryptic-crossword-clues)
 - [Words With At Least These Letters](http://www.litscape.com/word_tools/contains_minimally.php)
 - [Semaphore Chart](https://upload.wikimedia.org/wikipedia/commons/0/0a/Semaphore_Signals_A-Z.jpg)
+- [Nato Phonetic Alphabet](https://upload.wikimedia.org/wikipedia/commons/e/e0/FAA_Phonetic_and_Morse_Chart2.svg)
