@@ -36,6 +36,7 @@ This repo holds original tools for solving puzzle challenges.
   - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
   - [Unicode Characters](http://unicodelookup.com/) - e.g. U+1F605
   - [Acrostics](https://en.wikipedia.org/wiki/Acrostic_(puzzle))
+  
 ## Key Words
 - Elements, periods, rows, columns -> Periodic Table
 - Cleave, split -> Need to split up words/dates/phrases
