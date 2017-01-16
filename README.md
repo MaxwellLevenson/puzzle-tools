@@ -56,3 +56,4 @@ This repo holds original tools for solving puzzle challenges.
 - [Words With At Least These Letters](http://www.dcode.fr/words-containing)
 - [Semaphore Chart](https://upload.wikimedia.org/wikipedia/commons/0/0a/Semaphore_Signals_A-Z.jpg)
 - [Nato Phonetic Alphabet](https://upload.wikimedia.org/wikipedia/commons/e/e0/FAA_Phonetic_and_Morse_Chart2.svg)
+- [Pigpen Cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pigpen_cipher_key.svg/1024px-Pigpen_cipher_key.svg.png)
