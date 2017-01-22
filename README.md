@@ -59,3 +59,4 @@ This repo holds original tools for solving puzzle challenges.
 - [Nato Phonetic Alphabet](https://upload.wikimedia.org/wikipedia/commons/e/e0/FAA_Phonetic_and_Morse_Chart2.svg)
 - [Pigpen Cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pigpen_cipher_key.svg/1024px-Pigpen_cipher_key.svg.png)
 - [Sudoku Solver](http://www.sudoku-solutions.com/)
+- [Alphametic Puzzle Solver](http://www.tkcs-collins.com/truman/alphamet/alpha_solve.shtml)
