@@ -35,7 +35,8 @@ This repo holds original tools for solving puzzle challenges.
   - [Braille](https://faqs.neoseeker.com/Games/GBA/pokemon_emerald_braille_jax06.png) - 2x3 grid of binary (yes/no) items [e.g.](https://www.collegepuzzlechallenge.com/Puzzles/ViewPuzzle.ashx?id=1325&view=solution)
   - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
   - [Unicode Characters](http://unicodelookup.com/) - e.g. U+1F605
-
+  - [Acrostics](https://en.wikipedia.org/wiki/Acrostic_(puzzle))
+  
 ## Key Words
 - Elements, periods, rows, columns -> Periodic Table
 - Cleave, split -> Need to split up words/dates/phrases
@@ -53,3 +54,9 @@ This repo holds original tools for solving puzzle challenges.
 - [Morse Code Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/500px-International_Morse_Code.svg.png)
 - [Number to Letter Chart](https://loganstatta.files.wordpress.com/2014/11/ordeng.jpg)
 - [Cryptic Crossword Tips](https://www.theguardian.com/lifeandstyle/2014/sep/12/how-to-solve-cryptic-crossword-clues)
+- [Words With At Least These Letters](http://www.dcode.fr/words-containing)
+- [Semaphore Chart](https://upload.wikimedia.org/wikipedia/commons/0/0a/Semaphore_Signals_A-Z.jpg)
+- [Nato Phonetic Alphabet](https://upload.wikimedia.org/wikipedia/commons/e/e0/FAA_Phonetic_and_Morse_Chart2.svg)
+- [Pigpen Cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pigpen_cipher_key.svg/1024px-Pigpen_cipher_key.svg.png)
+- [Sudoku Solver](http://www.sudoku-solutions.com/)
+- [Alphametic Puzzle Solver](http://www.tkcs-collins.com/truman/alphamet/alpha_solve.shtml)
