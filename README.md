@@ -60,3 +60,4 @@ This repo holds original tools for solving puzzle challenges.
 - [Pigpen Cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pigpen_cipher_key.svg/1024px-Pigpen_cipher_key.svg.png)
 - [Sudoku Solver](http://www.sudoku-solutions.com/)
 - [Alphametic Puzzle Solver](http://www.tkcs-collins.com/truman/alphamet/alpha_solve.shtml)
+- [Find Connections Between Actors/Movies](http://www.omive.com/)
