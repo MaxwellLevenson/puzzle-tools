@@ -18,6 +18,11 @@ This repo holds original tools for solving puzzle challenges.
   - Numbers in a single digit range are usually used to index words or letters
   - 5 digit numbers could be zip codes
   - Google ambiguous numbers
+  - Change base of numbers
+  - 10/11 digit numbers can be ISBNs
+  - 10 digit numbers can be phone numbers
+  - Mid range numbers ~50-100 -> ASCII conversion
+  - Pairs of numbers -> Take the difference
 - Letters:
   - If have a grouping on nonsensical letters derived from clues, try to look at the clues to find an ordering (dates, times, addresses, age, etc)
 - Words:
@@ -39,10 +44,15 @@ This repo holds original tools for solving puzzle challenges.
   - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
   - [Unicode Characters](http://unicodelookup.com/) - e.g. U+1F605
   - [Acrostics](https://en.wikipedia.org/wiki/Acrostic_(puzzle))
+ - Red/Blue colors -> Marvel/DC
   
 ## Key Words
-- Elements, periods, rows, columns -> Periodic Table
+- Elements, periods, rows, columns, microscopic, symbol, periodically, table, elementary -> Periodic Table
 - Cleave, split -> Need to split up words/dates/phrases
+- State -> states of the US
+- Record -> sports records/world records
+- Universal encoding -> Unicode, UTF-8
+- Tabletop -> board games
 
 ## Useful External Tools
 - [Thesaurus](http://www.thesaurus.com/)
