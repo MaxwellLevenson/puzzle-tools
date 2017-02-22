@@ -20,6 +20,9 @@ This repo holds original tools for solving puzzle challenges.
   - Google ambiguous numbers
 - Letters:
   - If have a grouping on nonsensical letters derived from clues, try to look at the clues to find an ordering (dates, times, addresses, age, etc)
+- Words:
+  - Homophones
+  - Synonyms
 - Maps: Can be turned into symbols
 - Dates: Can be converted to letters
 - Times: Often semaphores that can be converted to letters
