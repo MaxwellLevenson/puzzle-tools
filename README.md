@@ -19,7 +19,7 @@ This repo holds original tools for solving puzzle challenges.
   - 5 digit numbers could be zip codes
   - Google ambiguous numbers
   - Change base of numbers
-  - 10/11 digit numbers can be ISBNs
+  - 10/11 digit numbers can be ISBNs, series of numbers with dashes in the middle also ISBNs
   - 10 digit numbers can be phone numbers
   - Mid range numbers ~50-100 -> ASCII conversion
   - Pairs of numbers -> Take the difference
@@ -36,6 +36,7 @@ This repo holds original tools for solving puzzle challenges.
 - Word Puzzles: Pay attention to tense of clues
 - Word Association: Sometimes need to find common word or word to add at beginning/end of clues to find solution
 - Weird Items:
+  - Greek letters - can spell words in English, mathematical constants: pi, phi, omega, gamma
   - Semornilaps - words and phrases which make sense when read backwards, but have a different meaning
   - Palindromes - same forwards as backwards
   - Tourament bracket - find similarities between items given
@@ -46,6 +47,10 @@ This repo holds original tools for solving puzzle challenges.
   - [Unicode Characters](http://unicodelookup.com/) - e.g. U+1F605
   - [Acrostics](https://en.wikipedia.org/wiki/Acrostic_(puzzle))
  - Red/Blue colors -> Marvel/DC
+ - 3,4,5 pythagorean sequences -> right triangles
+ - 9 colors squares in a grid -> Rubicks cube
+ - [Rebus](https://en.wikipedia.org/wiki/Rebus) allusional device with pictures to words
+ - [Hexahue Alphabet](http://www.geocachingtoolbox.com/index.php?page=hexahue)
   
 ## Key Words
 - Elements, periods, rows, columns, microscopic, symbol, periodically, table, elementary -> Periodic Table
@@ -54,12 +59,14 @@ This repo holds original tools for solving puzzle challenges.
 - Record -> sports records/world records
 - Universal encoding -> Unicode, UTF-8
 - Tabletop -> board games
+- Symmetry, mirror -> Try holding up the puzzle to a mirror, folding it
+- Lips -> Try pronoucing with lisp
 
 ## Useful External Tools
 - [Thesaurus](http://www.thesaurus.com/)
 - [Dictionary](http://www.dictionary.com/)
-- [Fast Letter/Number Decryption](http://rumkin.com/tools/cipher/numbers.php)
-- [Binary/Hex/Decimal/Ascii Converters](http://www.binaryhexconverter.com/)
+- [Fast Letter/Number Decryption](http://www.geocachingtoolbox.com/index.php?lang=en&page=numbersToLetters)
+- [Binary/Hex/Decimal/Ascii Converters](http://www.geocachingtoolbox.com/index.php?lang=en&page=asciiConversion)
 - [Periodic Table](http://www.ptable.com/)
 - [Vigenere Solver](http://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx)
 - [Casear Solver](https://www.nayuki.io/page/automatic-caesar-cipher-breaker-javascript)
@@ -75,3 +82,6 @@ This repo holds original tools for solving puzzle challenges.
 - [Sudoku Solver](http://www.sudoku-solutions.com/)
 - [Alphametic Puzzle Solver](http://www.tkcs-collins.com/truman/alphamet/alpha_solve.shtml)
 - [Find Connections Between Actors/Movies](http://www.omive.com/)
+- [Frequencey/Character Analysis](http://www.geocachingtoolbox.com/index.php?lang=en&page=textAnalysis)
+- [Base Converter](http://www.geocachingtoolbox.com/index.php?lang=en&page=baseConversion)
+- [MASSIVE Toolbox](http://www.geocachingtoolbox.com/index.php?lang=en)
