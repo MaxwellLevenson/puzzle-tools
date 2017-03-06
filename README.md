@@ -1,11 +1,11 @@
 # Puzzle Tools
 This repo holds original tools for solving puzzle challenges.
 
-## General Puzzle Rules
+## Puzzle Golden Rules
 1. Nothing is a coincidence
 2. The title is a clue, any words that seem out of place are clues
-3. Never should need to brute force
-4. Organize information in a spreadsheet
+3. Never need to brute force
+4. Organize information (in a spreadsheet)
 5. When in doubt, <a href="http://i.imgur.com/3cN3yR9.jpg" target="_blank">Google</a>
 6. Think about the design of the puzzle, if you think a detail was intentional, it is a clue
 7. Often one has to convert a derived solution back to the original form of the puzzle, recurse - see [example](https://www.collegepuzzlechallenge.com/Puzzles/ViewPuzzle.ashx?id=1320&view=solution)
