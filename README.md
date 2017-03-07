@@ -25,6 +25,7 @@ This repo holds original tools for solving puzzle challenges.
   - Pairs of numbers -> Take the difference
   - Converting series of numbers to words in T9 phone texting
   - Multiple consecutive same number - T9 - 77755433 etc.
+  - B O L S h E -> turn over for calculator words
 - Letters:
   - If have a grouping on nonsensical letters derived from clues, try to look at the clues to find an ordering (dates, times, addresses, age, etc)
 - Words:
